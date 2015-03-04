@@ -1,1 +1,1 @@
-docker.io build -t kartoza/geonode .
+docker build -t kartoza/geonode .
